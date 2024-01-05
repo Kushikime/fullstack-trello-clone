@@ -13,7 +13,7 @@ const Logo = () => {
         <Image className="" src="/logo.svg" alt="Logo" height={30} width={30} />
         <p
           className={cn(
-            "text-lg text-neutral-700 xl:mt-1",
+            "text-lg text-neutral-700 sm:mt-1",
             headingFont.className
           )}
         >
